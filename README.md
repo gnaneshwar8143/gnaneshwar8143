@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Gnaneshwar 👋
 
-<!--
-**gnaneshwar8143/gnaneshwar8143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer
+🤖 Machine Learning Enthusiast
+🌱 Currently learning Full Stack Development
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- JavaScript
+- HTML/CSS
+- Machine Learning
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Credit Card Fraud Detection
+Machine learning model to identify fraudulent transactions.
+
+### Resume Craftsman
+AI-powered resume builder application.
+
+### Driving Style Prediction
+Predicts driving behavior using ML algorithms.
+
+## Connect With Me
+- LinkedIn: your-linkedin
+- Email: your-email
